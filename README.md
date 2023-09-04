@@ -36,7 +36,12 @@ Here are some ideas to get you started:
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 
-## Github 活跃度
+## Language
 
-[![](https://activity-graph.herokuapp.com/graph?username=jinbudaily&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![jinbudaily's github stats](https://github-readme-stats.vercel.app/api?username=jinbudaily&show_icons=true&theme=vue)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbudaily&layout=compact)
+
+## Statistics
+
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=jinbudaily)
+
