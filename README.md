@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbudaily&layout=compact)
 
-## Statistics
+## git Statistics
 
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=jinbudaily)
