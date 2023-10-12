@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 职业: Web前端
 - 🤔 喜欢的学科是`哲学`和`心理学`
 - 😄正在努力践行`长期主义`和`利他哲学`
-- 💬 [我的花园](https://www.yuque.com/alipayqvfd0cfvgl)
+- 💬 [我的花园](https://www.yuque.com/lijinbudaily)
 
 ##  **技术栈:**
 
